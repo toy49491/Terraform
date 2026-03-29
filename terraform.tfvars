@@ -1,6 +1,6 @@
 aws_region       = "us-east-1"
 project_name     = "technova"
-environment      = "dev"
+environment      = "onyu123"
 department       = "IT3110"
 instance_type    = "t2.micro"
 min_size         = 2
