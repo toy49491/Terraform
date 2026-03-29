@@ -10,7 +10,7 @@ variable "project_name" {
 
 variable "environment" {
   type    = string
-  default = "dev2"
+  default = "onyu123"
 }
 
 variable "department" {
